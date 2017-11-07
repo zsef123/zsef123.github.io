@@ -41,10 +41,10 @@ $default-box-shadow: $box-shadow-size
                      $box-shadow-size
                      rgba(0, 0, 0, $box-shadow-opacity);
 
-$code-font-family: Menlo, Monaco, "Courier New", monospace !default;
+$code-font-family: Menlo, Monaco, "Consolas", monospace !default;
 $code-color: #bf616a !default;
 
 // Hyde theming
-$sidebar-bg-color: #202020 !default;
+$sidebar-bg-color: #444444 !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
