@@ -4,10 +4,10 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+|![two_java]({{site.baseurl}}/imgs/two_java.jpg)|
+|:--:|
+|*김국현의 낭만IT goodhyun.com*|
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+[image_issue](http://blog.davidebbo.com/2014/11/using-issues-for-github-pages-screenshots.html)
+
+Deep learinig, NLP 공부하는 학생입니다.
