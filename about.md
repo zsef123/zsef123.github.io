@@ -10,4 +10,4 @@ sidebar_link: true
 
 [image_issue](http://blog.davidebbo.com/2014/11/using-issues-for-github-pages-screenshots.html)
 
-Deep learinig, NLP 공부하는 학생입니다.
+Deep learinig, NLP 공부하는 대학생입니다.

@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hello, blog
+title:            Deep린이
 tagline:          'A Jekyll theme'
 description:      'Deep Learning, NLP, C, Python and Study'
 url:              https://zsef123.github.io/
